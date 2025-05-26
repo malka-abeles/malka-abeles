@@ -3,6 +3,9 @@
 
 ---
 
+<p>📬 Reach Me</p>
+- Email: ma0548535247@gmail.com
+- LinkedIn: https://www.linkedin.com/in/malka-abeles/
 
 <p>💬 Feel free to ask me about C++, Python, Object-Oriented Programming, and algorithms.</p>
 
@@ -37,14 +40,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="48"/>
 </p>
 
-
-
----
-
-### 📬 Reach Me
-
-- Email: ma0548535247@gmail.com
-- LinkedIn: https://www.linkedin.com/in/malka-abeles/
 
 ---
 
