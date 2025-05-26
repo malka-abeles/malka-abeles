@@ -5,13 +5,13 @@
 
 ---
 
-<p align="center">📬 Reach Me</p>
+<p>📬 Reach Me</p>
 <ul>
   <li>Email: <a href="mailto:ma0548535247@gmail.com">ma0548535247@gmail.com</a></li>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/malka-abeles/" target="_blank">linkedin.com/in/malka-abeles</a></li>
 </ul>
 
-<p align="center">💬 Feel free to ask me about <strong>C++</strong>, <strong>Python</strong>, <strong>Object-Oriented Programming</strong>, and <strong>algorithms</strong>.</p>
+<p>💬 Feel free to ask me about <strong>C++</strong>, <strong>Python</strong>, <strong>Object-Oriented Programming</strong>, and <strong>algorithms</strong>.</p>
 
 ---
 
@@ -44,4 +44,4 @@
 
 ---
 
-<p align="center">Thanks for visiting 💜</p>
+<p>Thanks for visiting 💜</p>
